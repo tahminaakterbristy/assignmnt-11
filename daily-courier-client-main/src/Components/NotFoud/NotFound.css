@@ -1,0 +1,23 @@
+
+.not-found-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.goto-home-btn button{
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: #0062CC;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.goto-home-btn button:hover{
+    background-color: #59a4f3;
+}

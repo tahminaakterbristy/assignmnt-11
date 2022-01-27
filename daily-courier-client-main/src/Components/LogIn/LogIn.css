@@ -1,0 +1,244 @@
+
+
+@media screen and (min-width:788px) {
+    
+
+.logo-container .login-logo img{
+    width: 70px;
+}
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 180px;
+}
+
+.logo-container p{
+    font-size: 30px;
+    font-weight: 200;
+
+}
+
+.login-form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    padding: 40px;
+    background-color: #f3f1ee;
+    border-radius: 15px;
+
+ 
+}
+
+.login-submit-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.log-in-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.singUp-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    width: 490px;
+    border-radius: 15px;
+}
+
+.singUp-direction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.login-another-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    width: 490px;
+    border-radius: 15px;
+    gap: 30px;
+}
+
+.login-another-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.with-another{
+    font-size: 23px;
+    text-align: center;
+    margin-left: 20px;
+  
+}
+
+.login-another-box p{
+    cursor: pointer;
+
+}
+
+.login-submit-btn button{
+    width: 400px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:788px) {
+    
+
+.logo-container .login-logo img{
+    width: 70px;
+}
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 180px;
+}
+
+.logo-container p{
+    font-size: 30px;
+    font-weight: 200;
+
+}
+
+.login-form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    padding: 40px;
+    background-color: #f3f1ee;
+    border-radius: 15px;
+    width: 100vw;
+
+ 
+}
+
+.login-form-container input{
+    width: 100vw;
+}
+
+
+
+
+
+
+.login-submit-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.log-in-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.singUp-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    /* width: 490px; */
+    border-radius: 15px;
+}
+
+.singUp-direction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.login-another-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    width: 300px;
+    border-radius: 15px;
+    gap: 30px;
+}
+
+.login-another-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.with-another{
+    font-size: 23px;
+    text-align: center;
+    margin-left: 20px;
+  
+}
+
+.login-another-box p{
+    cursor: pointer;
+
+}
+
+
+.login-submit-btn button{
+    width: 100vw;
+}
+
+.login-form-container input[type='email']{
+width: 100vw;
+}
+
+
+
+
+
+
+}

@@ -1,0 +1,187 @@
+
+
+@media only screen and (max-width:788px) {
+
+
+
+
+
+
+    .placeorder-header{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #01434F;
+        height: 140px;
+        width: 100vw;
+    }
+    .placeorder-header .your-service{
+        color: tomato;
+        font-size: 17px;
+    
+    }
+    .placeorder-header .your-service span{
+       color: white;
+       font-size: 17px;
+    }
+    
+    .placeorder-price{
+    color: tomato;
+    font-size: 17px;
+    }
+    .placeorder-price span{
+       color: white;
+    }
+    
+    .placeorder-box{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        margin-bottom: 200px;
+    }
+    
+    .your-info-submit-button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+    .serverMsg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    
+    .successMsg{
+        color: rgb(82, 196, 26);
+        font-size: 17px;
+        font-weight: 600;
+    }
+    
+    .errorMsg{
+        color: red;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .placeholder-title{
+    
+    }
+    .placeholder-headline{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+       font-family: cursive;
+    }
+    .placeorder-container{
+        margin-top: 100px;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:788px) {
+
+    
+
+.placeorder-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #01434F;
+    height: 140px;
+}
+.placeorder-header .your-service{
+    color: tomato;
+    font-size: 26px;
+
+}
+.placeorder-header .your-service span{
+   color: white;
+   font-size: 20px;
+}
+
+.placeorder-price{
+color: tomato;
+font-size: 26px;
+}
+.placeorder-price span{
+   color: white;
+}
+
+.placeorder-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.your-info-submit-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.serverMsg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.successMsg{
+    color: rgb(82, 196, 26);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.errorMsg{
+    color: red;
+    font-size: 17px;
+    font-weight: 600;
+}
+.placeholder-title{
+
+}
+.placeholder-headline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+   font-family: cursive;
+}
+.placeorder-container{
+    margin-top: 100px;
+}
+    
+}
